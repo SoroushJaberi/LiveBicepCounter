@@ -48,7 +48,7 @@ The script will display a progress bar that fills up as you complete a bicep cur
 
 ## Customization
 
-If you would like to customize the detection or the visual feedback, you can modify the `poseestimationmodule.py` and `main.py` files to suit your preferences. You can adjust the following elements:
+If you would like to customize the detection or the visual feedback, you can modify the `poseestimationmodule.py` and `bicepApp.py` files to suit your preferences. You can adjust the following elements:
 - Pose landmarks to suit different exercises or additional functionality
 - Thresholds for rep counting logic
 - Colors and styling of visual feedback elements like progress bars and labels
