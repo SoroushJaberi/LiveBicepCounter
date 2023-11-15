@@ -33,5 +33,30 @@ Position yourself in front of the webcam and start performing bicep curls. The a
 ## Contributions
 Community contributions are welcome! For significant changes or enhancements, please open an issue first to discuss your ideas with the maintainers.
 
+
+### Creating TUTORIALS.md
+```markdown
+# Tutorials
+
+## Getting Started
+
+To use the LiveBicepCounter, position your webcam to capture your upper body, especially focusing on the arm you'll be using to perform bicep curls.
+
+Ensure you perform the curls within the camera's view and maintain a consistent pace for the program to accurately count your reps.
+
+The script will display a progress bar that fills up as you complete a bicep curl, along with rep count and percentage labels on the frame itself.
+
+## Customization
+
+If you would like to customize the detection or the visual feedback, you can modify the `poseestimationmodule.py` and `main.py` files to suit your preferences. You can adjust the following elements:
+- Pose landmarks to suit different exercises or additional functionality
+- Thresholds for rep counting logic
+- Colors and styling of visual feedback elements like progress bars and labels
+
+Make sure to understand the pose landmark IDs and relationships as defined by MediaPipe's Pose model when making such adjustments.
+```
+
+
+
 ## License
 LiveBicepCounter is available under the MIT License. For more information, consult the included LICENSE file in the repository.
