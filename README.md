@@ -34,7 +34,7 @@ Position yourself in front of the webcam and start performing bicep curls. The a
 Community contributions are welcome! For significant changes or enhancements, please open an issue first to discuss your ideas with the maintainers.
 
 
-### Creating TUTORIALS.md
+### TUTORIALS.md
 ```markdown
 # Tutorials
 
