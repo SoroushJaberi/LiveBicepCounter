@@ -58,6 +58,5 @@ Make sure to understand the pose landmark IDs and relationships as defined by Me
 ```
 
 
-
 ## License
 LiveBicepCounter is available under the MIT License. For more information, consult the included LICENSE file in the repository.
